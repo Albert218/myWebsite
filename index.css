@@ -1,0 +1,164 @@
+.first{
+  background-color:#84d1e6;
+  margin: 0 auto;
+  position: relative;
+  bottom: 200px;
+  height: 860px;
+}
+
+body{
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+img{
+  width: 400px;
+  height: 400px;
+}
+
+.ucloud{
+  position: relative;
+  left: 200px;
+  top: 80px;
+  
+}
+
+.bcloud{
+  position: absolute;
+  top: 390px;
+  left: 50px;
+}
+
+h1{
+    position: relative;
+    bottom: 100px;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+    color: #2e7a7a;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+ color: #2e7a7a;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+ font-weight: bolder;
+ color: #2e7a7a;
+}
+
+.p1{
+  position: relative;
+  bottom: 150px;
+  font-size: 30px;
+  color: #2e7a7a;
+}
+
+.mount{
+  width: 750px;
+  height: 750px;
+  position: relative;
+  bottom: 350px;
+}
+
+.img1{
+ margin-bottom: 100px;
+ border-radius: 200px;
+ height: 300px;
+ width: 280px;
+}
+
+.profile{
+ margin-top: -180px;
+  height: 550px;
+}
+
+.p2{
+  margin:  100px auto 100px auto;
+ margin-top: -90px;
+  line-height: 2;
+  width: 50%;
+}
+
+.img2{
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 20px;
+}
+
+.img3{
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-right: 20px;
+}
+
+.img4{
+  height: 200px;
+  width: 200px;
+  
+}
+
+.img5{
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 20px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2; 
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+.btn{
+ 
+  background-color:#84d1e6 ;
+  height: 40px;
+  width: 140px;
+ border-radius: 10px;
+ border-color: white;
+ margin-bottom: 50px;
+
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+}
+
+.bottom-container{
+  background-color: #84d1e6;
+  height: 75px;
+  padding-top: 10px;
+}
+
+
+
+.footer-link{
+  padding-left: 40px;
+  text-decoration: none;
+  color: #2e7a7a;
+}
+
+.footer-link:hover{
+  color: #eff6f6;
+}
+
+.foot{
+  color: aliceblue;
+}
